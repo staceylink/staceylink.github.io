@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    background-size: cover;
+    color: black;
+    font-size:16px;
+    font-family:Helvetica
+}
+h1 {
+    font-size:2em;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
