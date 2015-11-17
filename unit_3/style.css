@@ -1,10 +1,10 @@
 body {
     text-align: center;
-    background: url ("https://staceylink.github.io/unit_3/images/Hero.jpg");
+    background: url("https://staceylink.github.io/unit_3/images/Hero.jpg");
     background-size: cover;     
     color: #fff;
     font-size:16px;
-    font-family:Helvetica
+    font-family: Helvetica;
 }
 h1 {
     font-size:2em;
